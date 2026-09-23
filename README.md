@@ -31,7 +31,7 @@ The script uses the function `generate_password(length)` from the file **`passwo
 ## **How to Use**
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/MarcGonzalez-15/Secure-Password-Generator.git
     ```
 
 2. Navigate to the project directory:
